@@ -12,27 +12,29 @@ I am a student of Artificial Intelligence dedicated to bridging the gap between 
 
 ---
 
-## 🛠 Tech Stack & Focus Areas
+## 🛠️ Tech Stack & Focus Areas
 
-| **Category** | **Tools & Interests** |
-|-----------------------|-----------------------------------------------------------------|
-| **AI/ML Development** | Python, PyTorch, TensorFlow, Scikit-learn, LLMs                |
-| **AI Governance** | AI Ethics Frameworks, Risk Assessment, Bias Mitigation         |
-| **Law & Policy** | EU-AI Act, Data Privacy (GDPR)      |
-| **Data Science** | Pandas, NumPy, Data Visualization (Matplotlib/Seaborn)         |
+### 💻 Core Development Tools
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)](https://it.wikipedia.org/wiki/Structured_Query_Language)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTerrier](https://img.shields.io/badge/PyTerrier-FF4500?style=for-the-badge&logo=python&logoColor=white)](https://pyterrier.readthedocs.io/en/latest/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-## 📂 Key Projects
+### ⚖️ Specializations & Governance
 
-### ⚖️ [Project Name: e.g., AI Ethics Auditor]
-* **Description:** A tool/research paper analyzing bias in datasets or implementing a specific "Human-in-the-loop" framework.
-* **Tech:** Python, Fairness Toolkits.
-* **Key Insight:** Focuses on how to maintain human rights during model deployment.
-
-### 🤖 [Project Name: e.g., Corporate AI Strategy Model]
-* **Description:** An implementation of a RAG (Retrieval-Augmented Generation) system designed for secure corporate use.
-* **Tech:** OpenAI API, LangChain, Pinecone.
+| **Category** | **Focus & Interests** |
+| :--- | :--- |
+| **AI & ML Development** | LLMs, Neural Networks, Model Optimization |
+| **AI Governance** | AI Ethics Frameworks, Risk Assessment, Bias Mitigation |
+| **Law & Policy** | EU-AI Act, Data Privacy (GDPR), Algorithm Transparency |
+| **Data Science** | Pandas, NumPy, Data Visualization (Matplotlib/Seaborn) |
 
 ---
 
@@ -48,11 +50,11 @@ In a landscape often obsessed with the speed of deployment, I dedicate my academ
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio:** [Your Website Link]
-* **Email:** [Your Professional Email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunice-afuye-89930630a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eunice.afuye001@gmail.com)
 
-*"Innovating with purpose, scaling with responsibility."*
+
+*"Scaling technology with purpose: focusing on the 'Should' and 'Why' of AI to deliver impactful, responsible innovation."*
 
 
 
