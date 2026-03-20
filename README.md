@@ -3,6 +3,7 @@
 ### 🎓 AI Student | Future AI Governance & Implementation Expert
 I am a student of Artificial Intelligence dedicated to bridging the gap between cutting-edge innovation and ethical responsibility.
 My mission is to help organizations leverage the full power of AI while ensuring that the line between technological progress and human rights remains unblurred.
+My goal is to move beyond theory and learn how to actually translate requirements like the EU AI Act into clean, functional, and transparent code.
 
 ---
 
@@ -33,9 +34,10 @@ My mission is to help organizations leverage the full power of AI while ensuring
 
 ---
 ### 🚀 Scaling AI with Responsibility
-"I build and analyze AI systems where the 'Why' and 'Should' are as important as the code itself."
+#### "I build and analyze AI systems where the 'Why' and 'Should' are as important as the code itself."
 
-I am an AI student focused on the practical implementation of ethics and governance. My work goes beyond studying frameworks like the EU AI Act; I focus on translating these legal requirements into transparent, secure, and human-centric technical architectures.
+I am dedicating my career on the practical implementation of ethics and governance. My work goes beyond studying frameworks like the EU AI Act;
+I focus on translating these legal requirements into transparent, secure, and human-centric technical architectures.
 
 ---
 
