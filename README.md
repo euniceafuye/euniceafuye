@@ -40,12 +40,9 @@ I am dedicating my career on the practical implementation of ethics and governan
 I focus on translating these legal requirements into transparent, secure, and human-centric technical architectures.
 
 ---
-
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunice-afuye-89930630a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eunice.afuye001@gmail.com)
-
-
+* 🔗 **LinkedIn:** [Eunice Afuye](https://www.linkedin.com/in/eunice-afuye-89930630a/)
+* 📧 **Email:** [eunice.afuye001@gmail.com](mailto:eunice.afuye001@gmail.com)
 
 
 
