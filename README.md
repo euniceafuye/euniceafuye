@@ -1,6 +1,6 @@
 # Hi there, I'm Eunice! 👋
 
-### 🎓 AI Student | Future AI Governance & Implementation Expert
+### 🎓 AI Student | AI Implementation Expert
 I am a student of Artificial Intelligence dedicated to bridging the gap between cutting-edge innovation and ethical responsibility.
 My mission is to help organizations leverage the full power of AI while ensuring that the line between technological progress and human rights remains unblurred.
 My goal is to move beyond theory and learn how to actually translate requirements like the EU AI Act into clean, functional, and transparent code.
