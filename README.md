@@ -1,9 +1,15 @@
 # Hi there, I'm Eunice! 👋
 
-### 🎓 AI Student | AI Implementation Expert
-I am a student of Artificial Intelligence dedicated to bridging the gap between cutting-edge innovation and ethical responsibility.
-My mission is to help organizations leverage the full power of AI while ensuring that the line between technological progress and human rights remains unblurred.
-My goal is to move beyond theory and learn how to actually translate requirements like the EU AI Act into clean, functional, and transparent code.
+### 🎓 AI Student | Data Analysis, Machine Learning & Responsible AI
+
+I am an Artificial Intelligence student interested in how data and machine learning can be used to build systems that are not only effective, but also responsible.
+
+My work sits at the intersection of:
+- technical development (ML, data analysis, information retrieval)  
+- real-world application (projects & consulting experience)  
+- and growing interest in AI ethics, regulation, and transparency  
+
+I’m particularly curious about large language models (LLMs) and agentic AI, and how these systems can evolve from experimentation to reliable, human-centered tools.
 
 ---
 
@@ -22,28 +28,53 @@ My goal is to move beyond theory and learn how to actually translate requirement
 
 ---
 
-### ⚖️ Specializations & Governance
+### ⚖️ What I’m Building & Exploring
 
-| **Category** | **Focus & Interests** |
+| **Area** | **What it means in practice** |
 | :--- | :--- |
-| **AI & ML Development** | LLMs, Neural Networks, Model Optimization |
-| **Data Science** | Pandas, NumPy, Data Visualization (Matplotlib/Seaborn) |
-| **AI Governance** | AI Ethics Frameworks, Risk Assessment, Bias Mitigation |
-| **Law & Policy** | EU-AI Act, Data Privacy (GDPR), Algorithm Transparency |
-
-
----
-### 🚀 Scaling AI with Responsibility
-#### "I build and analyze AI systems where the 'Why' and 'Should' are as important as the code itself."
-
-I am dedicating my career on the practical implementation of ethics and governance. My work goes beyond studying frameworks like the EU AI Act;
-I focus on translating these legal requirements into transparent, secure, and human-centric technical architectures.
+| **Machine Learning & Data** | Building predictive models, working with real datasets, improving performance through preprocessing and evaluation |
+| **Information Retrieval** | Designing search systems and ranking pipelines (BM25, neural reranking) |
+| **LLMs & Agentic AI** | Exploring how LLM-based systems can be structured into useful workflows and applications |
+| **AI Responsibility** | Understanding how concepts like fairness, transparency, and regulation (EU AI Act) connect to real systems |
 
 ---
+
+### 🚀 Projects & Approach
+
+This GitHub is where I experiment, build, and learn by doing.
+
+You’ll find projects where I:
+- apply machine learning models to real problems  
+- design and evaluate retrieval systems  
+- build small applications to better understand system behavior  
+
+I’m especially interested in the full pipeline:
+👉 from data → to model → to evaluation → to real-world usability  
+
+---
+
+### 💡 Perspective
+
+I don’t see AI as just a technical field.
+
+I’m interested in understanding:
+- how systems behave  
+- how they impact people  
+- and how we can design them more responsibly  
+
+That’s why I’m exploring not only machine learning, but also the intersection between AI, ethics, and regulation.
+
+---
+
+### 🎯 Current Focus
+
+- Strengthening my skills in data analysis and machine learning  
+- Building more end-to-end projects  
+- Exploring practical applications of LLMs and agentic systems  
+
+---
+
 ## 📫 Let's Connect!
+
 * 🔗 **LinkedIn:** [Eunice Afuye](https://www.linkedin.com/in/eunice-afuye-89930630a/)
-* 📧 **Email:** [eunice.afuye001@gmail.com](mailto:eunice.afuye001@gmail.com)
-
-
-
-
+* 📧 **Email:** eunice.afuye001@gmail.com
