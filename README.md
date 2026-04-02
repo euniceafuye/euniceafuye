@@ -49,7 +49,7 @@ You’ll find projects where I:
 - build small applications to better understand system behavior  
 
 I’m especially interested in the full pipeline:
-👉 from data → to model → to evaluation → to real-world usability  
+ from data → to model → to evaluation → to real-world usability  
 
 ---
 
