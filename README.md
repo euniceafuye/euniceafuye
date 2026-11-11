@@ -1,6 +1,6 @@
 # Hi there, I'm Eunice! 👋
 
-### 🎓 AI Student | Data Analysis, Machine Learning & Responsible AI
+### 🎓 AI Student | Machine Learning & Responsible AI
 
 I am an Artificial Intelligence student interested in how data and machine learning can be used to build systems that are not only effective, but also responsible.
 
